@@ -1,3 +1,3 @@
 # wiki
 
-[Blockchain Devux's Wiki](https://bdevx.github.io/wiki/)
+[Blockchain Devux's Wiki](https://bdevux.github.io/wiki/)
